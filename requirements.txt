@@ -5,3 +5,4 @@ psutil
 pyperclip
 win11toast
 pystray
+pyinstaller
