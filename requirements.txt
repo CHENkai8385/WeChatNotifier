@@ -1,0 +1,7 @@
+uiautomation
+Pillow
+pywin32
+psutil
+pyperclip
+win11toast
+pystray
